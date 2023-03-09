@@ -1,0 +1,64 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+    
+}
+
+.fbname{
+
+    font-size: 2vw;
+    font-family: , sans-serif;
+    text-align: left  ;
+    
+
+
+
+
+}
+
+.login{
+    font-family: inherit;
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 332px;
+}
+
+.fp{
+    font-size: large;
+    color: blue;
+
+
+}
+
+.cna{
+    border: none;
+    padding: 10px 40px;
+    font-size: large;
+    background-color: rgb(32, 232, 38);
+    border-radius: 20px;
+
+
+}
+
+.email{
+    font-size: large;
+    border-radius: 10px;
+    padding: 5px 49px;
+    text-align: left;
+
+}
+
+.ps{
+    font-size: large;
+    border-radius: 10px;
+    padding: 5px 49px;
+    text-align: left;
+}
+
+.form{
+    border: 10px;    
+}
